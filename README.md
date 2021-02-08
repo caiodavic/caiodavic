@@ -2,6 +2,7 @@
 
 <!--
 **caiodavic/caiodavic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
 I'm Caio Davi, an undergraduate student in Computer Science at Universidade Federal de Campina Grande and tutor for elementary and middle school students.
 
