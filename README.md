@@ -20,5 +20,6 @@ I'm Caio Davi, an undergraduate student in Computer Science at Universidade Fede
   
   
   
-Social Media
+#### Social Media
 <p align =center>
+  <a href="https://www.instagram.com/caiodavic/" target="blank"><img src="https://img.icons8.com/metro/26/000000/instagram-new.png"/>
