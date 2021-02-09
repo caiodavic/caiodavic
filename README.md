@@ -10,9 +10,13 @@ I'm Caio Davi, an undergraduate student in Computer Science at Universidade Fede
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiodavic&count_private=true&theme=dark)
 ![Caio Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caiodavic&layout=compact&theme=dark)
 
-### Languages and Tools
-<p align=center>
+#### Languages and Tools
+<p align=center>  
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   
   
   
