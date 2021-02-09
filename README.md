@@ -13,5 +13,8 @@ I'm Caio Davi, an undergraduate student in Computer Science at Universidade Fede
 ### Languages and Tools
 <p align=center>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  
+  
+  
 Social Media
 <p align =center>
