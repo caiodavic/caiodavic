@@ -18,5 +18,5 @@ I'm Caio Davi, an undergraduate student in Computer Science at Universidade Fede
 #### Social Media
 <p align =center>
   <a href="https://www.instagram.com/caiodavic/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="caiodavic_insta"/>
-  <a href="https://www.linkedin.com/in/caiodavicc/" target="blank"><img src="https://img.icons8.com/metro/48/000000/linkedin.png" alt="caiodavicc_linkedin"/>
+  <a href="https://www.linkedin.com/in/caiodavicc/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="caiodavicc_linkedin"/>
   <a href="mailto:caio.silva@ccc.ufcg.edu.br" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/gmail-login.png"/>
